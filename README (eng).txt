@@ -6,11 +6,19 @@ However, if you want to follow a student's process of development by analyzing h
 
 -------------------------------------------------------------------
 VERSION HISTORY
+--------------------------------------------------------------------
+
+VERSION 0.0.0.0.2
+Release: 02/17/2021
+
+- a friend suggested to include the types as methods. At first, I thought it would demand a lot of work, but, I decided to implement it anyway, because I realised it would be in fact easier.
+- to do that, I browsed Bulbapedia and gathered the info about the types. However, when I started typing the info, I realized it would be way harder than I thought. For now, I simply added the types and atributes (eg.: dragon suffers 0,5 dmg from fire atks, and 2x dmg from ice atks). However, I but them as commentaries, because it will need a lot of coding to work (and I didn't want to lose the information I gathered).
+- talking about types, because of a matter of difficulties + lazyness, FOR NOW, I will only consider generation VI onwards. There are at least 3 different previous counters, and to be honest, I'm not willing to think about this right now.
 
 --------------------------------------------------------------------
 
 VERSION 0.0.0.0.1
-Release: 11/02/2021
+Release: 02/11/2021
 
 - first "usable" version
 - console-only app. Everything it does is: printing a list with the pokemon types; gettin two numbers; searching in the Type class the equivalent values; printen the chosen types. It does it by using a class because, in the future, I intend to fill this class with the proper information about types, and use it to build the counters.

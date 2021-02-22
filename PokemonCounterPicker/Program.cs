@@ -14,6 +14,8 @@ namespace PokemonCounterPicker
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine("DIGITE O TIPO DO ATAQUE A SER UTILIZADO");
+            Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("LISTA COM OS TIPOS:");
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("1 - Bug         10 - Grass");
@@ -27,15 +29,20 @@ namespace PokemonCounterPicker
             Console.WriteLine("9 - Ghost       18 - Water");
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("-------------------------------------------------------");
-            Console.WriteLine("Digite os dois números correspondentes aos tipos, separados por espaços.");
-            Console.Write("Se não houver tipo secundário, digite 0. ");
-            string[] ins = Console.ReadLine().Split(' ');
-            int tipoA = int.Parse(ins[0]);
-            int tipoB = int.Parse(ins[1]);
-            tipos.TypeSetter(tipoA, tipoB);
+            Console.WriteLine("DIGITAE O NÚMERO CORRESPONDENTE AO TIPO");
+            Console.WriteLine("PARA ENCERRAR O PROGRAMA, DIGITE QUALQUER NÚMERO QUE NÃO ESTEJA NA LISTA. ");
+            int ins = int.Parse(Console.ReadLine());
+            tipos.TypeSetter(ins);
+            while (ins != 0 && ins <= 18)
+            {
+                tipos.TypeSetter(ins);
+                Console.WriteLine(tipos);
+                Console.Write("ESCOLHA UM NOVO TIPO: ");
+                ins = int.Parse(Console.ReadLine());
+            }
             Console.WriteLine();
-            Console.WriteLine("Tipos inseridos:");
-            Console.WriteLine(tipos);
+
+           
 
         }
     }

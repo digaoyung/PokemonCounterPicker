@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\bin\Debug\netcoreapp3.1\PokemonCounterPicker.exe
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\bin\Debug\netcoreapp3.1\PokemonCounterPicker.deps.json
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\bin\Debug\netcoreapp3.1\PokemonCounterPicker.runtimeconfig.json
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\bin\Debug\netcoreapp3.1\PokemonCounterPicker.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\bin\Debug\netcoreapp3.1\PokemonCounterPicker.dll
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\bin\Debug\netcoreapp3.1\PokemonCounterPicker.pdb
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.AssemblyInfo.cs
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.dll
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.pdb
+C:\Users\Usuario\Documents\ESTUDOS DE PROGRAMAÇÃO\C#\PokemonCounterPicker\PokemonCounterPicker\obj\Debug\netcoreapp3.1\PokemonCounterPicker.genruntimeconfig.cache

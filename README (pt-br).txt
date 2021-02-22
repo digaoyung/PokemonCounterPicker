@@ -9,6 +9,15 @@ HISTÓRICO DE VERSÕES
 
 --------------------------------------------------------------------
 
+VERSÃO 0.0.0.0.2
+Lançamento: 17/02/2021
+
+- por sugestão de um amigo, incluí os tipos na forma de métodos. Achei que era muito trabalho, mas, resolvi implementar porque, de fato, seria mais fácil. 
+- pra fazer isso, fui na bulbapedia e peguei as informações sobre os tipos. Quando eu comecei a inserir, percebi que vai ser mais complicado do que eu pensei. Por enquanto, eu só coloquei os tipos e os atributos (ex: dragão sofre 0,5 de dano de fogo, mas recebe 2x de dano de gelo). Eu coloquei apenas como comentários, porque vai precisar de bastante trabalho pra fazer isso funcionar (e eu não queria perder a informação que eu levantei)
+- por uma questão de dificuldade + preguiça, POR ENQUANTO, eu vou considerar só a geração atual (na verdade, da VI pra frente). Vou fazer isso porque tem pelo menos 3 mudanças de geração, e eu prefiro não mexer nisso agora.
+
+--------------------------------------------------------------------
+
 VERSÃO 0.0.0.0.1
 Lançamento: 11/02/2021
 
