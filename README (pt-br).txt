@@ -9,6 +9,15 @@ HISTÓRICO DE VERSÕES
 
 --------------------------------------------------------------------
 
+VERSÃO 0.0.0.0.3
+Lançamento: 22/02/2021
+- sem grandes mudanças
+- troquei um comando por 'while', pra que rode enquanto o usuário desejar
+- e acertei o retorno dos métodos, mas ainda não consegui colocar pra funcionar
+
+
+--------------------------------------------------------------------
+
 VERSÃO 0.0.0.0.2
 Lançamento: 17/02/2021
 

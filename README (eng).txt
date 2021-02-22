@@ -8,6 +8,16 @@ However, if you want to follow a student's process of development by analyzing h
 VERSION HISTORY
 --------------------------------------------------------------------
 
+VERSION 0.0.0.0.3
+Release: 02/22/2021
+- no big changes
+- swapped a 'for' for a 'while', so the software runs while the user wishes
+- fixed the returns (though I haven't been able to put them to run yet)
+(actually, I simply set how I wish them to return)
+
+--------------------------------------------------------------------
+
+
 VERSION 0.0.0.0.2
 Release: 02/17/2021
 
