@@ -8,6 +8,16 @@ However, if you want to follow a student's process of development by analyzing h
 VERSION HISTORY
 --------------------------------------------------------------------
 
+VERSION 0.0.0.0.4
+Release: 02/22/2021 - 8:00 p.m. (GST +3)
+A few hours after I published the .3 version, the same friend who suggested the methods gave me other suggestions, which made the code way more organized - and clear (thanks, Kodorna!)
+So, the menu became a function after Main, which took off about 2134213 code lines from the main program. This means that I only need to call the function to print the menu.
+Also, after watching a class, I "cloned" the "Tipos" class to a "OldTipos" class (because I think it could be useful in the future, and I didn't want to lose it), and I transformed the methods in a huge - AND FUNCTIONAL - switch-case.
+With this, ladies and gentlemen, here we have the first ACTUALLY FUNCTIONAL app version.
+Yey! \o/
+
+--------------------------------------------------------------------
+
 VERSION 0.0.0.0.3
 Release: 02/22/2021
 - no big changes

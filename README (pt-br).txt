@@ -9,6 +9,17 @@ HISTÓRICO DE VERSÕES
 
 --------------------------------------------------------------------
 
+VERSÃO 0.0.0.0.4
+Lançamento: 22/02/2021 - 8:00 p.m. (GST +3)
+Poucas horas depois de eu publicar a outra versão o mesmo amigo que me sugeriu usar os métodos, me deu outras sugestões para deixar o visual do código mais limpo e organizado (valeu, Kodorna!).
+O menu, então, virou uma função depois do Main, e tirou 2134213 linhas de código do programa principal. Assim, eu só preciso chamar a função de imprimir o menu.
+Além disso, após assistir uma aula, eu "clonei" a classe "Tipos" para uma classe "OldTipos", simplesmente para não perder (porque acho que pode ser útil na frente), e transformei os métodos em um grande - E FUNCIONAL - switch-case.
+Assim, senhoras e senhores, temos a primeira versão REALMENTE funcional do nosso programinha.
+Yey!
+
+--------------------------------------------------------------------
+
+
 VERSÃO 0.0.0.0.3
 Lançamento: 22/02/2021
 - sem grandes mudanças
